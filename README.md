@@ -1,6 +1,4 @@
-<h1 align="center">Hyunkel</h1>
-
-<img src="https://user-images.githubusercontent.com/66129931/171736846-ea6bc488-7073-4bec-972e-3d9568b32be8.png" align="center">
+<img src="https://user-images.githubusercontent.com/66129931/171743875-4c0a70e7-5caf-416b-a687-b4b313a5892e.png" align="center">
 
 <h1 align="center">Skills</h1>
 
