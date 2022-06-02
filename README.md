@@ -13,7 +13,7 @@
     </thead>
     <tbody>
         <tr>
-            <th>![image](https://user-images.githubusercontent.com/66129931/171740184-dfdd5792-9897-4e9c-bf0d-1f811c955de8.png)</th>
+            <th><img src="https://user-images.githubusercontent.com/66129931/171740184-dfdd5792-9897-4e9c-bf0d-1f811c955de8.png"></th>
         </tr>
     </tbody>
 </table>
