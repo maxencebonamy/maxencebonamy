@@ -39,7 +39,7 @@
 <h1 align="center">Contact</h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/maxence-bonamy/">
+	<a href="https://www.linkedin.com/in/maxence-bonamy-261668221/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
