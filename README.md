@@ -1,9 +1,23 @@
-# Hyunkel
 <h1 align="center">Hyunkel</h1>
 
 ![logo_background_169](https://user-images.githubusercontent.com/66129931/171736846-ea6bc488-7073-4bec-972e-3d9568b32be8.png)
 
 ## Skills
+<h2 align="center">Skills</h1>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th colspan="4"><b>Software</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>![image](https://user-images.githubusercontent.com/66129931/171740184-dfdd5792-9897-4e9c-bf0d-1f811c955de8.png)</th>
+        </tr>
+    </tbody>
+</table>
+
 ### Software
 ![image](https://user-images.githubusercontent.com/66129931/171740184-dfdd5792-9897-4e9c-bf0d-1f811c955de8.png)
 ![image](https://user-images.githubusercontent.com/66129931/171740218-033413b8-3854-40df-89c9-9035ef164806.png)
