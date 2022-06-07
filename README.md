@@ -20,7 +20,7 @@
 	</a>
 	<span>&nbsp;</span>
 	<a href="https://www.maxencebonamy.fr">
-		<img src="https://img.shields.io/badge/-MAXENCEBONAMY.FR-000000?style=for-the-badge&logo=js&logoColor=white">
+		<img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
 </p>
 
