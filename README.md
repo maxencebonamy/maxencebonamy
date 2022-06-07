@@ -18,6 +18,10 @@
 	<a href="https://www.instagram.com/maxence_bnm/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.maxencebonamy.fr">
+		<img src="https://img.shields.io/badge/-MAXENCEBONAMY.FR-000000?style=for-the-badge&logo=js&logoColor=white">
+	</a>
 </p>
 
 
