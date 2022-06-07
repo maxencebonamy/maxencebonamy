@@ -20,4 +20,8 @@
 	<a href="https://www.maxencebonamy.fr">
 		<img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white">
 	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.facebook.com/maxence.bnm/">
+		<img src="https://img.shields.io/badge/-FACEBOOK-3B5998?style=for-the-badge&logo=facebook&logoColor=white">
+	</a>
 </p>
