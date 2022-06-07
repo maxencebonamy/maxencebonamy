@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66129931/171743875-4c0a70e7-5caf-416b-a687-b4b313a5892e.png" align="center">
-
+<img src="https://maxencebonamy.fr/assets/gif/github.gif" align="center">
 
 <h1 align="center">Contact</h1>
 
