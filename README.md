@@ -22,7 +22,7 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 	<thead>
 		<tr>
 			<th colspan="2"><b>Software</b></th>
-			<th colspan="2"><b>Harware</b></th>
+			<th colspan="2"><b>Hardware</b></th>
 			<th colspan="2"><b>Web</b></th>
 			<th colspan="2"><b>Design</b></th>
 		</tr>
