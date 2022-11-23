@@ -97,3 +97,12 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 </p>
+
+
+# Stats
+
+[![Maxence Bonamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxencebonamy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxencebonamy&theme=radical" />
+</a>
