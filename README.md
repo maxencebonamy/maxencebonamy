@@ -101,6 +101,8 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 
 # 🤖 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<center>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center" width="100%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxencebonamy&theme=radical" />
 </a>
+	</center>
