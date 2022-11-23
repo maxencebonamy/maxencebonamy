@@ -77,7 +77,7 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 # ✉️ Contact
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/maxence-bonamy-261668221/">
+	<a href="https://www.linkedin.com/in/maxencebonamy/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
@@ -89,15 +89,11 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://www.instagram.com/maxence_bnm/">
+	<a href="https://www.instagram.com/maxencebonamy/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://www.maxencebonamy.fr">
+	<a href="https://maxencebonamy.fr">
 		<img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://www.facebook.com/maxence.bnm/">
-		<img src="https://img.shields.io/badge/-FACEBOOK-3B5998?style=for-the-badge&logo=facebook&logoColor=white">
 	</a>
 </p>
