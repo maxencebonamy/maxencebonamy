@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://maxencebonamy.fr"><img src="https://maxencebonamy.fr/res/github/portfolio.gif" width="100%"></a>
 </p>
-
+<img src="https://maxencebonamy.fr/res/github/portfolio.gif" width="100%">
 <br>
 
 
