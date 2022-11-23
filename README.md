@@ -49,23 +49,23 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 			<td align="center"></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Tkinter">Tkinter</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Arduino">Arduino</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/React">React</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">PhotoShop</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CMake">CMake</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Java">Java</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/STM32">STM32</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">SASS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/WordPress">WordPress</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Paint.net">Paint.net</a></td>
 			<td align="center"></td>
 		</tr>
 		<tr>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Tkinter">Tkinter</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Arduino">Arduino</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
 			<td align="center"></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">PhotoShop</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Figma_(software)">Figma</a></td>
 			<td align="center"></td>
 		</tr>
 	</tbody>
