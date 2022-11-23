@@ -11,7 +11,7 @@ Being passionate about programming since the age of 11, I quickly found what I w
 
 In addition, I'm currently studying engineering in the fields of electronics and computer science, which allows me to improve my already acquired skills, but also to develop new ones, especially in hardware.
 
-More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)**
+More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)**.
 
 <br>
 
@@ -81,10 +81,6 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="mailto:maxencebonamy@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
 	<a href="https://twitter.com/__Hyunkel__">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
@@ -95,5 +91,9 @@ More informations on my website: **[maxencebonamy.fr](https://maxencebonamy.fr)*
 	<span>&nbsp;</span>
 	<a href="https://maxencebonamy.fr">
 		<img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:maxencebonamy@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 </p>
