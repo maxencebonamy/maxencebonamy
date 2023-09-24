@@ -1,4 +1,4 @@
 <p align="center">
-	<a href="https://maxencebonamy.fr">![github image](https://github.com/maxencebonamy/maxencebonamy/assets/66129931/79014911-059d-4b02-b11a-fedf21b73219)</a>
+	<a href="https://maxencebonamy.fr"><img src="https://maxencebonamy.fr/res/github/portfolio.png" width="100%"></a>
 </p>
 
